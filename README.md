@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving cloud-based solutions, implementing microservices architecture, and utilizing Terraform for infrastructure automation.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services.<br><br>⚡ **Fun fact:**  <br>I love watching anime.
+🔭 **I’m currently working on:**  <br>Improving cloud-based solutions, implementing Java, Spring Boot, Microservices architecture, and utilizing Terraform for infrastructure automation.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services.<br><br>⚡ **Fun fact:**  <br>I love watching anime.
 
 
 ## 🌐 Socials:
